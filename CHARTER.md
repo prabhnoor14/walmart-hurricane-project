@@ -1,8 +1,14 @@
 **Goals**
-- What does a good result look like
-- What each person wants
-- What limits our time
-- What to avoid
+- What does a good result look like:
+  - A notebook that is thorough and achieves the purpose of the project. Our data cleaning and analysis is done well. We are able to answer the project question. 
+- What each person wants:
+  - Prabhnoor: data cleaning and SQL practice
+  - 
+- What limits our time:
+  - Class, work, extracurricular commitments 
+- What to avoid:
+  - Doing everything last minute
+  - Not communicating about the work done
 
 **Breakdown of the project**
  Piece | Weight | What we look for |
@@ -24,7 +30,12 @@
 - One reviews
 
 **How we work**
-- Where we talk: We will try to communicate via the groupchat as much as possible
-- When we meet: We will try to attend all classes until the presentation
-- How we decide: 
-- If someone goes quiet:
+- Where we talk
+  - Groupchat
+  - how fast we answer: 
+- When we meet
+- How we decide
+- If someone goes quiet
+  - Check in on them after 2 days and email professor if they do not respond.
+
+
