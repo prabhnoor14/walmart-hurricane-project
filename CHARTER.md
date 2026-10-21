@@ -31,10 +31,10 @@
 
 | Person | Ownership | Tasks | Feeds into |
 |---|---|---|---|
-| **A** | Pipeline lead | Set up repo and pipeline skeleton (day 1); remove duplicates; standardize missing values (empty, NULL, N/A, NaN); convert text numbers and `$` prices to numeric; handle negative quantities | Q5 |
+| **Safaa** | Pipeline lead | Set up repo and pipeline skeleton (day 1); remove duplicates; standardize missing values (empty, NULL, N/A, NaN); convert text numbers and `$` prices to numeric; handle negative quantities | Q5 |
 | **B** | Dates & categories | Parse all date/time formats into one datetime type; set the sales timezone; standardize category names, capitalization and spacing | Q1, Q3 |
 | **C** | SKUs | Build SKU mapping table (multiple SKUs/names → one canonical ID); keep the pre-mapping version for comparison | Q2, Q5 |
-| **D** | Stores + API prep | Standardize store IDs across files (finish first); confirm store file joins; get weather API key and a working test call | Q3, Q4 |
+| **Prabhnoor** | Stores + API prep | Standardize store IDs across files (finish first); confirm store file joins; get weather API key and a working test call | Q3, Q4 |
 
 **End-of-week deliverables:** merged clean dataset · cleaning log (each step + rows affected)
 
@@ -42,11 +42,11 @@
 
 | Person | Question | Tasks | Depends on |
 |---|---|---|---|
-| **A** | Q5: Signal or artifact | SQL on inventory database; cross-check against transactions; write recommendation | SKU and category cleanup |
+| **Safaa** | Q5: Signal or artifact | SQL on inventory database; cross-check against transactions; write recommendation | SKU and category cleanup |
 | **B** | Q1: Demand surge | Define and justify baseline window; chart top 5 categories | Date cleaning |
 | **B** | Q4: Stores and geography | Join store file; compare across stores | Store ID cleaning |
 | **C** | Q2: SKU consolidation | Before-and-after comparison using the mapping table; final pass on plot titles, labels and legends | Mapping table |
-| **D** | Q3: Weather correlation | Pull weather data; align timezones; check the join; run correlation and lag analysis | Weather API working |
+| **Prabhnoor** | Q3: Weather correlation | Pull weather data; align timezones; check the join; run correlation and lag analysis | Weather API working |
 
 **Every question needs:** code · at least 2 visualizations · written explanation · reflection paragraph
 
