@@ -24,7 +24,7 @@
 - One reviews
 
 **How we work**
-- Where we talk
-- When we meet
-- How we decide
-- If someone goes quiet
+- Where we talk: We will try to communicate via the groupchat as much as possible
+- When we meet: We will try to attend all classes until the presentation
+- How we decide: 
+- If someone goes quiet:
