@@ -59,6 +59,7 @@
   - Groupchat
   - how fast we answer: 
 - When we meet
+  - During class
 - How we decide
 - If someone goes quiet
   - Check in on them after 2 days and email professor if they do not respond.
