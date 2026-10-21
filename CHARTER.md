@@ -3,7 +3,7 @@
   - A notebook that is thorough and achieves the purpose of the project. Our data cleaning and analysis is done well. We are able to answer the project question. 
 - What each person wants:
   - Prabhnoor: data cleaning and SQL practice
-  - 
+  - Safaa Mahbub: data cleaning and answering the data cleaning questions
 - What limits our time:
   - Class, work, extracurricular commitments 
 - What to avoid:
