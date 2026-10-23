@@ -32,7 +32,7 @@
 | Person | Ownership | Tasks | Feeds into |
 |---|---|---|---|
 | **Safaa** | Pipeline lead | Set up repo and pipeline skeleton (day 1); remove duplicates; standardize missing values (empty, NULL, N/A, NaN); convert text numbers and `$` prices to numeric; handle negative quantities | Q5 |
-| **B** | Dates & categories | Parse all date/time formats into one datetime type; set the sales timezone; standardize category names, capitalization and spacing | Q1, Q3 |
+| **Norah** | Dates & categories | Parse all date/time formats into one datetime type; set the sales timezone; standardize category names, capitalization and spacing | Q1, Q3 |
 | **C** | SKUs | Build SKU mapping table (multiple SKUs/names → one canonical ID); keep the pre-mapping version for comparison | Q2, Q5 |
 | **Prabhnoor** | Stores + API prep | Standardize store IDs across files (finish first); confirm store file joins; get weather API key and a working test call | Q3, Q4 |
 
