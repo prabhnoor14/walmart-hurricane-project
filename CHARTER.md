@@ -20,14 +20,6 @@
 | Visualizations | 15% | At least six plots, with clear titles, labels, and legends |
 | Reflection | 15% | Five questions, one solid paragraph each. Every team member contributes |
 
-## Who does what
-
-| Role | Owner | Backup |
-|---|---|---|
-| Cleaning + decision log | Safaa | Samikksha |
-| Weather API + join | Prabhnoor | Norah |
-| Analysis Q1-Q5 | Norah | Safaa |
-| Charts + presentation (Nov 2) | Samikksha | Prabhnoor |
 
 ## Work Split
 
