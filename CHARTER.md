@@ -38,10 +38,10 @@
 
 | Person | Question | Tasks | Depends on |
 |---|---|---|---|
-| **A** | Q5: Signal or artifact | SQL on inventory database; cross-check against transactions; write recommendation | SKU and category cleanup |
+| **Safaa** | Q5: Signal or artifact | SQL on inventory database; cross-check against transactions; write recommendation | SKU and category cleanup |
 | **Norah** | Q1: Demand surge | Define and justify baseline window; chart top 5 categories | Date cleaning |
 | **Norah** | Q4: Stores and geography | Join store file; compare across stores | Store ID cleaning |
-| **Safaa** | Q2: SKU consolidation | Before-and-after comparison using the mapping table; final pass on plot titles, labels and legends | Mapping table |
+| **D** | Q2: SKU consolidation | Before-and-after comparison using the mapping table; final pass on plot titles, labels and legends | Mapping table |
 | **Prabhnoor** | Q3: Weather correlation | Pull weather data; align timezones; check the join; run correlation and lag analysis | Weather API working |
 
 **Every question needs:** code · at least 2 visualizations · written explanation · reflection paragraph
