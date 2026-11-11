@@ -4,6 +4,7 @@
 - What each person wants:
   - Prabhnoor: data cleaning and SQL practice
   - Norah: data cleaning and analyzing sales trends and geographic patterns
+  - Samikksha: data cleaning and accurate SKU consolidation
   - Safaa Mahbub: data cleaning and answering the data cleaning questions
 - What limits our time:
   - Class, work, extracurricular commitments 
@@ -41,7 +42,7 @@
 | **Safaa** | Q5: Signal or artifact | SQL on inventory database; cross-check against transactions; write recommendation | SKU and category cleanup |
 | **Norah** | Q1: Demand surge | Define and justify baseline window; chart top 5 categories | Date cleaning |
 | **Norah** | Q4: Stores and geography | Join store file; compare across stores | Store ID cleaning |
-| **D** | Q2: SKU consolidation | Before-and-after comparison using the mapping table; final pass on plot titles, labels and legends | Mapping table |
+| **Samikksha** | Q2: SKU consolidation | Before-and-after comparison using the mapping table; final pass on plot titles, labels and legends | Mapping table |
 | **Prabhnoor** | Q3: Weather correlation | Pull weather data; align timezones; check the join; run correlation and lag analysis | Weather API working |
 
 **Every question needs:** code · at least 2 visualizations · written explanation · reflection paragraph
