@@ -7,7 +7,7 @@
 Clone the project repository from GitHub:
 
 ```bash
-git clone [REPOSITORY_URL]
+git clone [https://github.com/prabhnoor14/walmart-hurricane-project]
 ```
 
 Alternatively, download the repository by selecting **Code → Download ZIP** on GitHub and extracting the files.
@@ -24,7 +24,7 @@ Alternatively, download the repository by selecting **Code → Download ZIP** on
 In the first notebook cell, clone the repository into the Colab environment:
 
 ```python
-!git clone [REPOSITORY_URL]
+!git clone [https://github.com/prabhnoor14/walmart-hurricane-project]
 ```
 
 The repository will be downloaded, including the `data/` directory and all supplied datasets.
